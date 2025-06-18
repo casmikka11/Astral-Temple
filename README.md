@@ -1,8 +1,8 @@
-# 👁‍🗨この構文に共鳴した方へ
-If you are inspired by this cosmic syntax, modest dimensional support is available from
+## 👁‍🗨 構文が響いた方へ
+この宇宙構文に感応した場合、以下からささやかな次元支援が可能です。
 [🪙 Support Me](https://buymeacoffee.com/casmikka11)
 
-🔗Click here for detailed payment and sales policies→
+🔗 詳しい支払い・販売ポリシーはこちら → 
 [Payment & Sales Information](Payment&SalesInformation.md)
 
 
